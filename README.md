@@ -1,4 +1,4 @@
 # dwAssignment01
-#Mac and Windows
-#Little experience using github
-#GUI
+Mac,
+Little experience using github,
+GUI
